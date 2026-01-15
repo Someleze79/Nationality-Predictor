@@ -2,7 +2,7 @@
 
 The *Nationality Predictor* is a React-based web application that predicts the most likely nationality associated with a given name. The app uses a public API to fetch nationality predictions and displays the results dynamically based on user input.
 
-This project was built to practice *API integration, **React Hooks, and **component-based UI development*, while maintaining a clean and user-friendly interface.
+This project was built to practice *API integration*, *React Hooks*, and *component-based UI development*, while maintaining a clean and user-friendly interface.
 
 ---
 
