@@ -41,7 +41,7 @@ Follow the steps below to run the project locally:
 
 ```bash
 1. Clone the repository  
-- git clone https://github.com/your-username/nationality-predictor.git
+- git clone https://github.com/your-username/Nationality-Predictor.git
 
 2. Navigate into the project folder
 - cd nationality-predictor
@@ -49,8 +49,11 @@ Follow the steps below to run the project locally:
 3. Install dependencies
 - npm install
 
-4. Start the development server
+4. Install web-vitals package
+- npm install web-vitals
+
+5. Start the development server
 - npm start
 
-5. Open your browser and visit:
+6. Open your browser and visit:
 - http://localhost:3000
